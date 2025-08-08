@@ -48,9 +48,9 @@ button:hover, .button:hover {
   color: var(--color-off-white);
 }
 
-input {
+input, select {
   border: 1px solid var(--color-off-white);
-  border-radius: 4px;
+  border-radius: 7px;
   padding: 0.5em;
   background: var(--color-off-white);
   color: #22223b;
