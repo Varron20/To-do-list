@@ -123,7 +123,7 @@ export default function Home() {
                 <span className="font-medium">Welcome, {user.name || user.email}!</span>
               </div>
               <div className="text-xs text-gray-300 mb-3">
-                🎉 You're logged in! Future features will include:
+              
                 <ul className="mt-2 space-y-1">
                   <li>• Share completed tasks on social media</li>
                   <li>• Sync tasks across devices</li>
