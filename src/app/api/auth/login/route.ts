@@ -4,7 +4,7 @@ export async function GET(request: NextRequest) {
   // Temporarily hardcode values for testing
   const auth0Domain = 'dev-g4f5xdg3cgiq5weu.us.auth0.com';
   const clientId = 'zHHgpGWH9Msgd8vezAkNCkepDvRD5JH1';
-  const redirectUri = 'http://localhost:3000/api/auth/callback';
+  const redirectUri = 'https://to-do-list-pink-three-35.vercel.app';
   
   console.log('Auth0 Config:', {
     domain: auth0Domain,
