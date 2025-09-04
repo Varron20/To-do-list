@@ -26,7 +26,7 @@ export async function GET(request: NextRequest) {
           client_id: 'zHHgpGWH9Msgd8vezAkNCkepDvRD5JH1',
           client_secret: '_siw_p4K5h9wqzL1Ka-OZabVrcYJW8eArG5pspQ7kQADlKeXIJOxuPVTykpZwU6A',
           code,
-          redirect_uri: 'https://to-do-list-pink-three-35.vercel.app/api/auth/callback',
+          redirect_uri: 'to-do-list-a0ikq4ise-varron20s-projects.vercel.app/api/auth/callback',
       }),
     });
 
